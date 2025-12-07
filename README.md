@@ -1,50 +1,58 @@
-<!-- بنر -->
+<!-- Banner -->
 <p align="center">
   <img src="https://img.freepik.com/free-vector/digital-backend-banner-technology-concept-particle-background-design_1017-22585.jpg?semt=ais_hybrid&w=740&q=80" width="100%" />
 </p>
 
-<h1 align="center">👋 سلام! خوش اومدی به پروفایل من</h1>
+<!-- Title -->
+<h1 align="center">✨ سلام! خوش آمدید به پروفایل من ✨</h1>
+
+<!-- Animated GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+</p>
+
+---
+
+## 👨‍💻 درباره‌ی من
+- 🌱 برنامه‌نویس همیشه در حال یادگیری  
+- 🚀 عاشق ساخت پروژه‌های جدید و خلاقانه  
+- 🔥 علاقه‌مند به تکنولوژی‌های روز  
+
+---
+
+## 🛠 مهارت‌ها و تکنولوژی‌ها
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<!-- Icons -->
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,linux,git,github,vscode&theme=light" />
+
 </p>
 
 ---
 
-## 🚀 درباره من
-- 👨‍💻 بک‌اند دولوپر  
-- 🔥 عاشق Node.js ،Express ،MongoDB  
-- 🎯 در مسیر یادگیری روزانه  
-- ⚡ علاقه‌مند به ساخت پروژه‌های کاربردی و تمیز
-
----
-
-## 🛠 تکنولوژی‌هایی که استفاده می‌کنم  
+## 📊 وضعیت و آمار GitHub
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,git,github,linux,vscode" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxenovin-art&show_icons=true&theme=tokyonight" height="160" />
-</p>
----
-
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maxenovin-art&theme=tokyonight" height="160" />
-</p>
- 
-
----
-
-## 🎉 یک جمله انگیزشی  
-> **"هر روز فقط ۱٪ بهتر شو، همین کافیه!"**
-
----
-
+## 🔥 انیمیشن فعالیت  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/treact/firebase-html-email/master/assets/animation_500_kv8i9j0p.gif" width="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
+---
+
+## 📫 راه‌های ارتباطی  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-Profile-blue?style=for-the-badge" /></a>
+</p>
+
+---
+
+<p align="center">⭐ اگر از پروفایلم خوشتون آمد، ریپوهام را دنبال کنید! ⭐</p>
