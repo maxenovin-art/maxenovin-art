@@ -33,7 +33,8 @@
 
 ---
 
-## 🔥 انیمیشن فعالیت  
+## ## 📊 My Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxenovin-art&theme=react-dark&area=true&hide_border=true" width="95%"/>
 </p>
