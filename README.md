@@ -35,9 +35,8 @@
 
 ## 🔥 انیمیشن فعالیت  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxenovin-art&theme=github-dark&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxenovin-art&theme=react-dark&area=true&hide_border=true" width="95%"/>
 </p>
-
 ---
 
 ## 📫 راه‌های ارتباطی  
