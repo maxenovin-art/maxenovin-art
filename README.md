@@ -42,8 +42,9 @@
 
 ## 🔥 انیمیشن فعالیت  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=4c9aff&line=4c9aff&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
+
 
 ---
 
