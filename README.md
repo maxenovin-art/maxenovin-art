@@ -35,9 +35,9 @@
 
 ---
 
-## 🔥 فعالیت‌های من  
+ ## 🔥 فعالیت‌های اخیر من
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxenovin-art&show_icons=true&theme=tokyonight" height="160" />
 </p>
 
 ---
