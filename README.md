@@ -33,16 +33,11 @@
 
 ---
 
-## ## 📊 My Contribution Graph
-
-<!-- this is the small blue line above the chart (custom text) -->
-<p align="center" style="margin-top:0.2rem;margin-bottom:0.4rem;">
-  <span style="color:#2cd4e6;font-weight:600;font-size:18px;">my contribution graph</span>
-</p>
-
+## ## 📊 انیمیشن فعالیت من
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxenovin-art&theme=react-dark&area=true&hide_border=true" width="95%"/>
 </p>
+
 ---
 
 ## 📫 راه‌های ارتباطی  
