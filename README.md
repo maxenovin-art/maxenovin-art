@@ -41,9 +41,23 @@
 ---
 
 ## 📫 راه‌های ارتباطی  
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-Profile-blue?style=for-the-badge" /></a>
+  <a href="mailto:max.e.novin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/behzad4574">
+    <img src="https://img.shields.io/badge/Telegram-@behzad4574-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/maxenovin-art">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="tel:+989385725620">
+    <img src="https://img.shields.io/badge/Phone-Call%20Now-2ca5e0?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
 </p>
 
 ---
